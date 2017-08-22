@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace TipCalculator
 {
-    [Activity(Label = "TipCalculator", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Tip Calculator", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         EditText inputBill;
