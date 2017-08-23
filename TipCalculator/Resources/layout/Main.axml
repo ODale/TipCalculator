@@ -26,6 +26,7 @@
             android:layout_marginRight="20dp"
             android:id="@+id/textView1" />
         <TextView
+            android:text="-"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:id="@+id/outputTip" />
@@ -42,6 +43,7 @@
             android:layout_marginRight="20dp"
             android:id="@+id/textView3" />
         <TextView
+            android:text="-"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:id="@+id/outputTotal" />
